@@ -13,5 +13,5 @@ Special characters like Ä/Ü/etc. may be misinterpreted by your console thus re
 
 Consoles are Ascii after all.
 
-If you are using windows you will find a "run.bat" with the code. This batch file generates the command for you.
+If you are using Windows you will find a "run.bat" with the code. This batch file generates the command for you.
 If this batch script does not work you might have to copy the command and replace %i% with your URL.
