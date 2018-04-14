@@ -1,3 +1,13 @@
+What are tags?
+
+Tags are a feature youtube added for content creators to give them the ability to optimise their videos for specific search terms.
+So if you make a video in which you showcase your cake you would give the video the tag "baking" and if anybody then searched for "baking" your video would show up.
+This sometimes leads to abuse as normally those tags are not shown to the end user and thus a false tagging is pretty much never reported. You want your cake video to go viral,
+but muffins are more popular right now? Just throw a tag "muffin" into there. Nobody will notice.
+Basically tags are, what youtubers do, when they think nobody's looking.
+
+
+
 How to use:
 The script takes the video URL as the first args and then searches the sourcecode for "keywords":
 > java -jar YT_Tags.jar https://www.youtube.com/watch?v=JGwWNGJdvx8
