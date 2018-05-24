@@ -1,9 +1,11 @@
 What are tags?
 
-Tags are a feature youtube added for content creators to give them the ability to optimise their videos for specific search terms.
-So if you make a video in which you showcase your cake you would give the video the tag "baking" and if anybody then searched for "baking" your video would show up.
-This sometimes leads to abuse as normally those tags are not shown to the end user and thus a false tagging is pretty much never reported. You want your cake video to go viral,
-but muffins are more popular right now? Just throw a tag "muffin" into there. Nobody will notice.
+Tags are a feature youtube added for content creators to give them the ability to optimise their videos for specific search
+terms. So if you make a video in which you showcase your cake you would give the video the tag "baking" and if anybody then 
+searched for "baking" your video would show up.
+This sometimes leads to abuse as normally those tags are not shown to the end user and thus a false tagging is pretty much
+never reported. You want your cake video to go viral, but muffins are more popular right now? Just throw a tag "muffin"
+into there. Nobody will notice and you can gather your clicks.
 Basically tags are, what youtubers do, when they think nobody's looking.
 
 
@@ -15,9 +17,9 @@ The script takes the video URL as the first args and then searches the sourcecod
 Shortened URLs will work as well, as long as it's a direkt link:
 > java -jar YT_Tags.jar https://youtu.be/JGwWNGJdvx8
 
-This script exploits the way YouTube ships these tags to different search engines as those won't get access to YouTubes database
-but rather just see the video site regular users get shipped as well. Therefor Youtube embeds these tags into the sites source
-code in the background from where my program picks extracts them.
+This script exploits the way YouTube ships these tags to different search engines as those won't get access to YouTubes
+database but rather just see the video site regular users get shipped as well. Therefor Youtube embeds these tags
+into the sites source code in the background from where my program picks extracts them.
 
 Special characters like Ä/Ü/etc. may be misinterpreted by your console thus resulting in weird outputs:
 Î?Î½Ï? Î£Î·Ï?Î±Î½
