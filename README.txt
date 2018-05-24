@@ -13,7 +13,7 @@ The script takes the video URL as the first args and then searches the sourcecod
 Shortened URLs will work as well, as long as it's a direkt link:
 > java -jar YT_Tags.jar https://youtu.be/JGwWNGJdvx8
 
-This script exploits the way YouTube ships these tags to different search engines as those won't get access to YouTubes database but rather just see the video site regular users get shipped as well. Therefor Youtube embeds these tags into the sites source code in the background from where my program picks extracts them.
+This script exploits the way YouTube ships these tags to different search engines as those won't get access to YouTubes database but rather just see the video site regular users get to see as well. Therefore Youtube embeds these tags into the sites source code in the background from where my program picks extracts them.
 
 Special characters like Ä/Ü/etc. may be misinterpreted by your console thus resulting in weird outputs:
 Î?Î½Ï? Î£Î·Ï?Î±Î½
